@@ -1,0 +1,20 @@
+project/lsm-abc-A-test.csv
+project/lsm-abc-A-train.csv
+project/lsm-abc-B-test.csv
+project/lsm-abc-B-train.csv
+project/lsm-abc-C-test.csv
+project/lsm-abc-C-train.csv
+project/Proyecto copy.ipynb
+project/svc_keypoints.onnx
+project/Video/desktop.ini
+project/Video/Video Proyecto Ciencias de datos.mp4
+practices/Practica 4 train_airlines_delay_challenge.csv
+practices/test_airlines_delay_challenge.csv
+project/__pycache__/common.cpython-312.pyc
+project/common.py
+project/dataset-test.csv
+project/dataset-train-reduced.csv
+project/dataset-train.csv
+project/datasetAPI.csv
+project/datasetAPI.json
+project/hand_landmarker.task
